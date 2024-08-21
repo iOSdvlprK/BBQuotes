@@ -19,6 +19,7 @@
 		D8D46D552C70CDC100AA4CF8 /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D46D542C70CDC100AA4CF8 /* Quote.swift */; };
 		D8D46D572C70CF9B00AA4CF8 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D46D562C70CF9B00AA4CF8 /* Character.swift */; };
 		D8D46D592C70D16B00AA4CF8 /* Death.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D46D582C70D16B00AA4CF8 /* Death.swift */; };
+		D8D9B08F2C76213B009D5329 /* QuoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D9B08E2C76213B009D5329 /* QuoteView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		D8D46D542C70CDC100AA4CF8 /* Quote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quote.swift; sourceTree = "<group>"; };
 		D8D46D562C70CF9B00AA4CF8 /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
 		D8D46D582C70D16B00AA4CF8 /* Death.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Death.swift; sourceTree = "<group>"; };
+		D8D9B08E2C76213B009D5329 /* QuoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 			children = (
 				D8A405E32C6F7CD300E6F974 /* BBQuotesApp.swift */,
 				D8A405E52C6F7CD300E6F974 /* ContentView.swift */,
+				D8D9B08E2C76213B009D5329 /* QuoteView.swift */,
 				D82925022C74D0510056E80F /* ViewModel.swift */,
 				D8B4A6F22C723E7900B49856 /* FetchService.swift */,
 				D8D46D542C70CDC100AA4CF8 /* Quote.swift */,
@@ -175,6 +178,7 @@
 				D8D46D592C70D16B00AA4CF8 /* Death.swift in Sources */,
 				D8A405E62C6F7CD300E6F974 /* ContentView.swift in Sources */,
 				D8D46D552C70CDC100AA4CF8 /* Quote.swift in Sources */,
+				D8D9B08F2C76213B009D5329 /* QuoteView.swift in Sources */,
 				D8A405E42C6F7CD300E6F974 /* BBQuotesApp.swift in Sources */,
 				D8B4A6F32C723E7900B49856 /* FetchService.swift in Sources */,
 				D8D46D572C70CF9B00AA4CF8 /* Character.swift in Sources */,
