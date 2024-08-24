@@ -16,6 +16,7 @@
 		D8A405F62C6F7E4E00E6F974 /* samplecharacter.json in Resources */ = {isa = PBXBuildFile; fileRef = D8A405F32C6F7E4E00E6F974 /* samplecharacter.json */; };
 		D8A405F72C6F7E4E00E6F974 /* sampledeath.json in Resources */ = {isa = PBXBuildFile; fileRef = D8A405F42C6F7E4E00E6F974 /* sampledeath.json */; };
 		D8B4A6F32C723E7900B49856 /* FetchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B4A6F22C723E7900B49856 /* FetchService.swift */; };
+		D8B6C3162C7A1A31008B33A0 /* CharacterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B6C3152C7A1A31008B33A0 /* CharacterView.swift */; };
 		D8D46D552C70CDC100AA4CF8 /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D46D542C70CDC100AA4CF8 /* Quote.swift */; };
 		D8D46D572C70CF9B00AA4CF8 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D46D562C70CF9B00AA4CF8 /* Character.swift */; };
 		D8D46D592C70D16B00AA4CF8 /* Death.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D46D582C70D16B00AA4CF8 /* Death.swift */; };
@@ -33,6 +34,7 @@
 		D8A405F32C6F7E4E00E6F974 /* samplecharacter.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = samplecharacter.json; sourceTree = "<group>"; };
 		D8A405F42C6F7E4E00E6F974 /* sampledeath.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sampledeath.json; sourceTree = "<group>"; };
 		D8B4A6F22C723E7900B49856 /* FetchService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchService.swift; sourceTree = "<group>"; };
+		D8B6C3152C7A1A31008B33A0 /* CharacterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterView.swift; sourceTree = "<group>"; };
 		D8D46D542C70CDC100AA4CF8 /* Quote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quote.swift; sourceTree = "<group>"; };
 		D8D46D562C70CF9B00AA4CF8 /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
 		D8D46D582C70D16B00AA4CF8 /* Death.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Death.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				D8A405E32C6F7CD300E6F974 /* BBQuotesApp.swift */,
 				D8A405E52C6F7CD300E6F974 /* ContentView.swift */,
 				D8D9B08E2C76213B009D5329 /* QuoteView.swift */,
+				D8B6C3152C7A1A31008B33A0 /* CharacterView.swift */,
 				D82925022C74D0510056E80F /* ViewModel.swift */,
 				D8B4A6F22C723E7900B49856 /* FetchService.swift */,
 				D8D46D542C70CDC100AA4CF8 /* Quote.swift */,
@@ -181,6 +184,7 @@
 				D8D9B08F2C76213B009D5329 /* QuoteView.swift in Sources */,
 				D8A405E42C6F7CD300E6F974 /* BBQuotesApp.swift in Sources */,
 				D8B4A6F32C723E7900B49856 /* FetchService.swift in Sources */,
+				D8B6C3162C7A1A31008B33A0 /* CharacterView.swift in Sources */,
 				D8D46D572C70CF9B00AA4CF8 /* Character.swift in Sources */,
 				D82925032C74D0510056E80F /* ViewModel.swift in Sources */,
 			);
