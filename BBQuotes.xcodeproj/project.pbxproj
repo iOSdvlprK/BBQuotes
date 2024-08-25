@@ -21,6 +21,7 @@
 		D8D46D572C70CF9B00AA4CF8 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D46D562C70CF9B00AA4CF8 /* Character.swift */; };
 		D8D46D592C70D16B00AA4CF8 /* Death.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D46D582C70D16B00AA4CF8 /* Death.swift */; };
 		D8D9B08F2C76213B009D5329 /* QuoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8D9B08E2C76213B009D5329 /* QuoteView.swift */; };
+		D8EB021D2C7B77BA00C97855 /* sampleepisode.json in Resources */ = {isa = PBXBuildFile; fileRef = D8EB021C2C7B77BA00C97855 /* sampleepisode.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		D8D46D562C70CF9B00AA4CF8 /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
 		D8D46D582C70D16B00AA4CF8 /* Death.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Death.swift; sourceTree = "<group>"; };
 		D8D9B08E2C76213B009D5329 /* QuoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteView.swift; sourceTree = "<group>"; };
+		D8EB021C2C7B77BA00C97855 /* sampleepisode.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sampleepisode.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				D8A405F32C6F7E4E00E6F974 /* samplecharacter.json */,
 				D8A405F42C6F7E4E00E6F974 /* sampledeath.json */,
 				D8A405F22C6F7E4E00E6F974 /* samplequote.json */,
+				D8EB021C2C7B77BA00C97855 /* sampleepisode.json */,
 			);
 			path = SampleData;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8A405F72C6F7E4E00E6F974 /* sampledeath.json in Resources */,
+				D8EB021D2C7B77BA00C97855 /* sampleepisode.json in Resources */,
 				D8A405EB2C6F7CD600E6F974 /* Preview Assets.xcassets in Resources */,
 				D8A405F52C6F7E4E00E6F974 /* samplequote.json in Resources */,
 				D8A405E82C6F7CD600E6F974 /* Assets.xcassets in Resources */,
