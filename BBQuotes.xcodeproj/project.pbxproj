@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		D82925032C74D0510056E80F /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D82925022C74D0510056E80F /* ViewModel.swift */; };
+		D86362F72C7E0B51004A35F4 /* StringExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86362F62C7E0B51004A35F4 /* StringExt.swift */; };
+		D86362F92C7E1506004A35F4 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86362F82C7E1506004A35F4 /* Constants.swift */; };
 		D8A405E42C6F7CD300E6F974 /* BBQuotesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A405E32C6F7CD300E6F974 /* BBQuotesApp.swift */; };
 		D8A405E62C6F7CD300E6F974 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8A405E52C6F7CD300E6F974 /* ContentView.swift */; };
 		D8A405E82C6F7CD600E6F974 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8A405E72C6F7CD600E6F974 /* Assets.xcassets */; };
@@ -26,6 +28,8 @@
 
 /* Begin PBXFileReference section */
 		D82925022C74D0510056E80F /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		D86362F62C7E0B51004A35F4 /* StringExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExt.swift; sourceTree = "<group>"; };
+		D86362F82C7E1506004A35F4 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		D8A405E02C6F7CD300E6F974 /* BBQuotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BBQuotes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8A405E32C6F7CD300E6F974 /* BBQuotesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BBQuotesApp.swift; sourceTree = "<group>"; };
 		D8A405E52C6F7CD300E6F974 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -82,6 +86,8 @@
 				D8D46D542C70CDC100AA4CF8 /* Quote.swift */,
 				D8D46D562C70CF9B00AA4CF8 /* Character.swift */,
 				D8D46D582C70D16B00AA4CF8 /* Death.swift */,
+				D86362F62C7E0B51004A35F4 /* StringExt.swift */,
+				D86362F82C7E1506004A35F4 /* Constants.swift */,
 				D8A405E72C6F7CD600E6F974 /* Assets.xcassets */,
 				D8A405F12C6F7E1E00E6F974 /* SampleData */,
 				D8A405E92C6F7CD600E6F974 /* Preview Content */,
@@ -183,9 +189,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8D46D592C70D16B00AA4CF8 /* Death.swift in Sources */,
+				D86362F92C7E1506004A35F4 /* Constants.swift in Sources */,
 				D8A405E62C6F7CD300E6F974 /* ContentView.swift in Sources */,
 				D8D46D552C70CDC100AA4CF8 /* Quote.swift in Sources */,
 				D8D9B08F2C76213B009D5329 /* QuoteView.swift in Sources */,
+				D86362F72C7E0B51004A35F4 /* StringExt.swift in Sources */,
 				D8A405E42C6F7CD300E6F974 /* BBQuotesApp.swift in Sources */,
 				D8B4A6F32C723E7900B49856 /* FetchService.swift in Sources */,
 				D8B6C3162C7A1A31008B33A0 /* CharacterView.swift in Sources */,
